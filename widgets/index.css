@@ -1,0 +1,10 @@
+.clock {
+    font-family: 'Syne', sans-serif;
+    background-color: orange;
+    display: block;
+}
+
+.clock p {
+    display: flex;
+    justify-content: space-between;
+}
